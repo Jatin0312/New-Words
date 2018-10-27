@@ -26,3 +26,8 @@
 23. Masochism
 24. Ample
 25. Hurl
+26. Ambivert
+27. Frail
+28. Unevitable
+29. Unfurl
+30. Resurrect
