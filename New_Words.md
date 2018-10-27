@@ -3,24 +3,26 @@
 1. Naive : showing a lack of experience, wisdom, or judgement
    Eg : "the rather naive young man had been totally misled"
 2. Hapax legomena : a term of which only one instance of use is recorded.
-3.nincompoop: foolish person.
-4.bibliographic.
-5.awesome.
-6.Important
-7.Helpfull
-8.Wanted
-9.Summit
-10.Belittle   
-11.Abolish
-12.Chauvinism
-13.Drowsy
-14.Callibre
-15.Flex
-16.Commitment
-17.Reincarnation
-18.Philosopy
-19.Obliviion
-20.Doper
-21.Coder
-22.Deportment
-23.Masochism
+3. nincompoop: foolish person.
+4. bibliographic.
+5. awesome.
+6. Important
+7. Helpfull
+8. Wanted
+9. Summit
+10. Belittle   
+11. Abolish
+12. Chauvinism
+13. Drowsy
+14. Callibre
+15. Flex
+16. Commitment
+17. Reincarnation
+18. Philosopy
+19. Obliviion
+20. Doper
+21. Coder
+22. Deportment
+23. Masochism
+24. Ample
+25. Hurl
